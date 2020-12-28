@@ -16,3 +16,12 @@ C:\Users\felip\source\repos\Proyecto App Taller Mecanico\CapaPersistencia\obj\De
 C:\Users\felip\source\repos\Proyecto App Taller Mecanico\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
 C:\Users\felip\source\repos\Proyecto App Taller Mecanico\CapaPersistencia\obj\Debug\CapaPersistencia.dll
 C:\Users\felip\source\repos\Proyecto App Taller Mecanico\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\bin\Debug\CapaEntidades.dll
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\bin\Debug\CapaEntidades.pdb
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\obj\Debug\CapaPersistencia.csprojAssemblyReference.cache
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+C:\Users\zero_cool\Documents\GitHub\MiTallerMecanico\CapaPersistencia\obj\Debug\CapaPersistencia.pdb

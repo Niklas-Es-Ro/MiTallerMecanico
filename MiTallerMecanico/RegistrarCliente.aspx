@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col col-md-6">
                 <asp:Label ID="lblRutCliente" runat="server" Text="Rut cliente:"></asp:Label>
-                <asp:TextBox ID="txtRutCliente" CssClass="form-control" required runat="server"></asp:TextBox><br />
+                <asp:TextBox ID="txtRutCliente" CssClass="form-control" OnTextChanged="txtRutCliente_TextChanged" required runat="server"></asp:TextBox><br />
 
                 <asp:Label ID="lblNomCliente" runat="server" Text="Nombre cliente:"></asp:Label>
                 <asp:TextBox ID="txtNomCliente" CssClass="form-control" required runat="server"></asp:TextBox><br />
